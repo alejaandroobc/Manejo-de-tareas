@@ -19,6 +19,12 @@ target/
 *.iml
 *.ipr
 
+# Ignorar el archivo application.properties
+application.properties
+
+# Ignorar otros archivos sensibles
+*.env
+*.local
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
